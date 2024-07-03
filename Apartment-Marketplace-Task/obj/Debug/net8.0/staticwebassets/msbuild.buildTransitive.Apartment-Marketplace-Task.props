@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Apartment-Marketplace-Task.props" />
+</Project>
